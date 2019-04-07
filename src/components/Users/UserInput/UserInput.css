@@ -1,0 +1,9 @@
+.UserInput {
+    width: 60%;
+    background: blue;
+    margin: auto;
+    border: 1px solid rgb(194, 10, 10);
+    box-shadow: 0 2px 3px  rgb(188, 201, 15);
+    padding: 16px;
+    text-align: center;
+}
